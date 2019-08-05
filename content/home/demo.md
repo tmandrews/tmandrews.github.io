@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 5  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 21  # Order that this section will appear.
 
-title = "Talbot M. Andrews"
+title = ""
 subtitle = "PhD Candidate, Department of Political Science <br/> Stony Brook University <br/> talbot.andrews@stonybrook.edu"
 
 [design]
@@ -46,4 +46,38 @@ subtitle = "PhD Candidate, Department of Political Science <br/> Stony Brook Uni
  # CSS class.
  css_class = ""
 +++
+.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
