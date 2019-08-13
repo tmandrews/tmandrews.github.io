@@ -69,6 +69,16 @@ Women's body attractiveness is influenced by specific anthropometric cues, inclu
 
 ## Other Published Work
 
+<details>
+  <summary>**[The political complexity of attack and defense](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/political-complexity-of-attack-and-defense/6ACF625C6461990162421633901BD753)**<br/>
+Talbot M. Andrews, Leonie Huddy, Reuben Kline, H. Hannah Nam, and Katherine Sawyer<br/>
+*Forthcoming Commentary in Behavioral and Brain Sciences*</summary>
+
+De Dreu and Gross’s distinction between attack and defense is complicated in real-world conflicts because competing leaders construe their position as one of defense, and power imbalances place status quo challengers in a defensive position. Their account of defense as vigilant avoidance is incomplete because it avoids a reference to anger which transforms anxious avoidance into collective and unified action. 
+
+</details>
+
+
 **[Changing Climate in the Lab](https://sites.google.com/site/apsapdf/changing-climate-in-the-lab)**<br/>
 Talbot M. Andrews<br/>
 Article in *The Experimental Political Scientist: Newsletter of the APSA Experimental Research Section,* 2019

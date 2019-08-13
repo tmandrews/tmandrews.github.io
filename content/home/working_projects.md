@@ -48,16 +48,6 @@ subtitle = "Pre-Prints Available for All Projects on Request"
 +++
 
 <details>
-  <summary>**The political complexity of attack and defense**<br/>
-Talbot M. Andrews, Leonie Huddy, Reuben Kline, H. Hannah Nam, and Katherine Sawyer<br/>
-*Forthcoming Commentary in Behavioral and Brain Sciences*</summary>
-
-De Dreu and Gross’s distinction between attack and defense is complicated in real-world conflicts because competing leaders construe their position as one of defense, and power imbalances place status quo challengers in a defensive position. Their account of defense as vigilant avoidance is incomplete because it avoids a reference to anger which transforms anxious avoidance into collective and unified action. 
-
-</details>
-
-
-<details>
   <summary>**Making useful political decisions for others: Experiments on Strategic Social Preferences**<br/>
 Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
 *Under Review*</summary>
