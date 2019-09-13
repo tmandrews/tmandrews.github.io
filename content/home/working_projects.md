@@ -66,6 +66,26 @@ Declining trust in government is often cited as the cause of declining support f
 </details>
 
 <details>
+  <summary>**Rebel Recruitment in Civil Conflict**<br/>
+Katherine Sawyer & Talbot M. Andrews<br/>
+*Under Review*</summary>
+
+While the conflict literature has examined the use of forced recruitment and child soldering, the question remains why groups would chose to do so when forced recruits require expensive coercion (Eck 2014) and time intensive socialization processes (Gates 2017). The prevailing wisdom in the literature is that forced recruitment is a tactic of the weak (Eck 2014); yet empirically, we often observe relatively strong rebel groups employing forced recruitment (Gates 2017). We resolve this disparity by developing a unified formal model of recruitment that matches the individual’s talent and utility for fighting with that of the rebel group’s. Critically, the model demonstrates that forced recruitment is not a tactic of last resort, but rather a method used by strong rebel groups who can credibly threaten defectors. The formal model is supported quantitatively and qualitatively using cross-national data on rebel recruitment practices (Cohen 2013) and case illustrations of the contras in Nicaragua and the Farabundo Martí National Liberation Front (FMLN) in El Salvador. The results speak to the growing literature emphasizing the importance of integrating individual and group level processes both theoretically and empirically.  
+
+</details>
+
+<details>
+  <summary>**Contextual Constraints on Discussion Partner Choice and Correct Voting**<br/>
+John Barry Ryan & Talbot M. Andrews<br/>
+*Under Review*<br/>
+</summary>
+
+Using a group based experiment, we demonstrate how contextual constraints in discussion partner choice can aid the efficacy of discussion as an information shortcut. Previous research has shown that political agreement is more important than expertise when individuals seek to use discussion as an information shortcut. In contrast, individuals typically place more weight on expertise than disagreement when choosing political discussion partners. As a result, the efficacy of political discussion improves when the supply of discussion partners is constrained to likeminded individuals. In effect, this prevents individuals from choosing a knowledgeable discussion partner who may provide biased information that misleads the individual. Ultimately these constraints result in more accurate information sharing and more individual-level correct voting when individuals are sorted into neighborhoods based on political preference. Further, the electorate’s preferred candidate – typically the less extreme candidate – is more likely to win when voters are sorted into ideologically distinct neighborhoods.   
+
+</details>
+
+
+<details>
   <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
 Talbot M. Andrews & John Barry Ryan<br/>
 </summary>
@@ -84,21 +104,5 @@ Climate change is an extremely polarized issue in the United States, with leader
 
 </details>
 
-<details>
-  <summary>**Rebel Recruitment in Civil Conflict**<br/>
-Katherine Sawyer & Talbot M. Andrews<br/>
-</summary>
 
-While the conflict literature has examined the use of forced recruitment and child soldering, the question remains why groups would chose to do so when forced recruits require expensive coercion (Eck 2014) and time intensive socialization processes (Gates 2017). The prevailing wisdom in the literature is that forced recruitment is a tactic of the weak (Eck 2014); yet empirically, we often observe relatively strong rebel groups employing forced recruitment (Gates 2017). We resolve this disparity by developing a unified formal model of recruitment that matches the individual’s talent and utility for fighting with that of the rebel group’s. Critically, the model demonstrates that forced recruitment is not a tactic of last resort, but rather a method used by strong rebel groups who can credibly threaten defectors. The formal model is supported quantitatively and qualitatively using cross-national data on rebel recruitment practices (Cohen 2013) and case illustrations of the contras in Nicaragua and the Farabundo Martí National Liberation Front (FMLN) in El Salvador. The results speak to the growing literature emphasizing the importance of integrating individual and group level processes both theoretically and empirically.  
-
-</details>
-
-<details>
-  <summary>**Contextual Constraints on Discussion Partner Choice and Correct Voting**<br/>
-John Barry Ryan & Talbot M. Andrews<br/>
-</summary>
-
-Using a group based experiment, we demonstrate how contextual constraints in discussion partner choice can aid the efficacy of discussion as an information shortcut. Previous research has shown that political agreement is more important than expertise when individuals seek to use discussion as an information shortcut. In contrast, individuals typically place more weight on expertise than disagreement when choosing political discussion partners. As a result, the efficacy of political discussion improves when the supply of discussion partners is constrained to likeminded individuals. In effect, this prevents individuals from choosing a knowledgeable discussion partner who may provide biased information that misleads the individual. Ultimately these constraints result in more accurate information sharing and more individual-level correct voting when individuals are sorted into neighborhoods based on political preference. Further, the electorate’s preferred candidate – typically the less extreme candidate – is more likely to win when voters are sorted into ideologically distinct neighborhoods.   
-
-</details>
 
