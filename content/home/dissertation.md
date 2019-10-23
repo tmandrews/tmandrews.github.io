@@ -55,12 +55,18 @@ In this series of papers I use a variety of methods to answer important question
   <summary>**Chapter 1: Conditional on what? Disentangling intention and equality motivations behind conditional cooperation**</summary>
 
 Why citizens engage in costly political participation is one of the most persistent puzzles in political science. They overcome collective action problems, for example by voting, turning out to protest, and paying the costs of climate change mitigation. Extensive work using public goods games show conditional cooperators, those who cooperate with other cooperators, are critical to overcoming such dilemmas, but what motivates these cooperators? Are they swayed because they perceive those around them to have good intentions? Or are they driven by general concerns for equality? Using a novel incentivized experiment, I find positive intentions sustain conditional cooperation, not a desire to maintain an equitable distribution of resources. I use the results of this study to construct a novel model of conditional cooperation in N-player social dilemmas and discuss implications for research on political behavior. 
+
+*Poster presented at the 2019 CSAP American Politics Conference <br/>
+Paper presented at the 2019 EITM Summer Institute <br/>
+Paper to be presented at the 2020 Winter Experimental Social Science Institute (WESSI)*
 </details>
 
 <details>
   <summary>**Chapter 2: The Paradox of Climate Concern: Declining Mitigation Support after Natural Disasters**</summary>
 
 Can people respond to political shocks with appropriate policy preferences? I argue that citizens struggle to link their experiences with political shocks to appropriate political attitudes, unless this link is made explicit. Furthermore, I argue shocks don’t only force citizens to consider how to respond to the shock, but activate competing considerations with can lead to counterintuitive and counterproductive policy preferences. I focus on the case of exposure to natural disasters and belief in climate change. Leveraging Hurricane Sandy and Hurricane Matthew as natural experiments, I find that exposure to hurricanes has no effect on belief in climate change, but that it significantly decreases support for a key mitigation technology: nuclear power. I then propose an experiment to disentangle the mechanism driving decreased nuclear power support, testing whether the decline in support is due a rational fear of nuclear plant damage in the wake of Hurricane Sandy, or if exposure to a low probability disaster like a hurricane makes people more concerned about other similar disasters like those associated with nuclear power. This work indicates that while personal experiences may help people update their beliefs, the path from personal experience to policy preferences is complex and undermined by other considerations activated by disasters.
+
+*Paper to be presented at the 2020 Southern Political Science Association Conference*
 
 </details>
 
