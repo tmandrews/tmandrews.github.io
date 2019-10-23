@@ -54,7 +54,10 @@ In this series of papers I use a variety of methods to answer important question
 <details>
   <summary>**Chapter 1: Conditional on what? Disentangling intention and equality motivations behind conditional cooperation**</summary>
 
-Why citizens engage in costly political participation is one of the most persistent puzzles in political science. They overcome collective action problems, for example by voting, turning out to protest, and paying the costs of climate change mitigation. Extensive work using public goods games show conditional cooperators, those who cooperate with other cooperators, are critical to overcoming such dilemmas, but what motivates these cooperators? Are they swayed because they perceive those around them to have good intentions? Or are they driven by general concerns for equality? Using a novel incentivized experiment, I find positive intentions sustain conditional cooperation, not a desire to maintain an equitable distribution of resources. I use the results of this study to construct a novel model of conditional cooperation in N-player social dilemmas and discuss implications for research on political behavior.
+Why citizens engage in costly political participation is one of the most persistent puzzles in political science. They overcome collective action problems, for example by voting, turning out to protest, and paying the costs of climate change mitigation. Extensive work using public goods games show conditional cooperators, those who cooperate with other cooperators, are critical to overcoming such dilemmas, but what motivates these cooperators? Are they swayed because they perceive those around them to have good intentions? Or are they driven by general concerns for equality? Using a novel incentivized experiment, I find positive intentions sustain conditional cooperation, not a desire to maintain an equitable distribution of resources. I use the results of this study to construct a novel model of conditional cooperation in N-player social dilemmas and discuss implications for research on political behavior. 
+
+*Poster presented at the 2019 CSAP American Politics Conference*
+*Paper presented at the 2019 EITM Summer Institute* 
 
 </details>
 
