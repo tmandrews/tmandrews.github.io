@@ -47,14 +47,17 @@ subtitle = "Pre-Prints Available for All Projects on Request"
  css_class = ""
 +++
 
-<details>
-  <summary>**Making useful political decisions for others: Experiments on Strategic Social Preferences**<br/>
-Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
-*Under Review*</summary>
 
-Politics often involves making decisions on behalf of others. Will citizens make these decisions for others in ways that are useful? Classic models that assume citizens are narrowly self-interested suggest they will not. More recent models incorporating social preferences—the willingness of people to pay personal costs to benefit others—suggests people will help others, including through political activity. We extend these models using two experimental games which ask not just whether people will pay a cost on behalf of others, but whether they will do so in a way that is strategically useful. Our game simulates making decisions to prevent others from experiencing disaster. We find that players are not only generous but are strategically so: Players tended to choose in the way that furthers positive outcomes for others. Our experiments suggest social preferences can lead to useful political decisions on behalf of others.
+<details>
+  <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
+Talbot M. Andrews & John Barry Ryan<br/>
+*Under Review*
+</summary>
+
+How do we best mobilize people to pay the costs of disaster prevention? Thoughintuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
 
 </details>
+
 
 <details>
   <summary>**When Trust Matters: The Case of Gun Control**<br/>
@@ -84,16 +87,14 @@ Using a group based experiment, we demonstrate how contextual constraints in dis
 
 </details>
 
-
 <details>
-  <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
-Talbot M. Andrews & John Barry Ryan<br/>
+  <summary>**Making useful political decisions for others: Experiments on Strategic Social Preferences**<br/>
+Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
 </summary>
 
-How do we best mobilize people to pay the costs of disaster prevention? Thoughintuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
+Politics often involves making decisions on behalf of others. Will citizens make these decisions for others in ways that are useful? Classic models that assume citizens are narrowly self-interested suggest they will not. More recent models incorporating social preferences—the willingness of people to pay personal costs to benefit others—suggests people will help others, including through political activity. We extend these models using two experimental games which ask not just whether people will pay a cost on behalf of others, but whether they will do so in a way that is strategically useful. Our game simulates making decisions to prevent others from experiencing disaster. We find that players are not only generous but are strategically so: Players tended to choose in the way that furthers positive outcomes for others. Our experiments suggest social preferences can lead to useful political decisions on behalf of others.
 
 </details>
-
 
 <details>
   <summary>**Who do you trust? Inefficiency Incentives in Climate Change Mitigation**<br/>
