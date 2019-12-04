@@ -90,6 +90,7 @@ Using a group based experiment, we demonstrate how contextual constraints in dis
 <details>
   <summary>**Making useful political decisions for others: Experiments on Strategic Social Preferences**<br/>
 Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
+*Under Review*<br/>
 </summary>
 
 Politics often involves making decisions on behalf of others. Will citizens make these decisions for others in ways that are useful? Classic models that assume citizens are narrowly self-interested suggest they will not. More recent models incorporating social preferences—the willingness of people to pay personal costs to benefit others—suggests people will help others, including through political activity. We extend these models using two experimental games which ask not just whether people will pay a cost on behalf of others, but whether they will do so in a way that is strategically useful. Our game simulates making decisions to prevent others from experiencing disaster. We find that players are not only generous but are strategically so: Players tended to choose in the way that furthers positive outcomes for others. Our experiments suggest social preferences can lead to useful political decisions on behalf of others.
