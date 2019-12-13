@@ -80,7 +80,9 @@ For activists to overcome the problem of low political participation they must n
 <details>
   <summary>**Chapter 4: (Antisocial) Punishment is Equally Effective Across cultures**</summary>
 
-A stable minority of individuals engage in antisocial punishment: inflicting costs on cooperators. Computational models suggest this undermines the evolution of cooperative strategies, and there appears to be massive cross-cultural variability in punishment behavior. Using data from existing work which conducted public goods games in industrialized countries throughout the world (Herrmann, Thöni, and Gächter 2008), I find this isn’t the case. Antisocial punishment is as effective as any other form of punishment in increasing cooperation. Furthermore, the relationship between how much someone cooperates and how much they are punished does not vary across cultures. Instead, this apparent variability is a downstream byproduct of variability in people’s willingness to cooperate. This suggests that future work should focus on why first order defectors are willing to engage in second order cooperation 
+A stable minority of individuals engage in antisocial punishment: inflicting costs on cooperators. Computational models suggest this undermines the evolution of cooperative strategies, and there appears to be massive cross-cultural variability in punishment behavior. Using data from existing work which conducted public goods games in industrialized countries throughout the world (Herrmann, Thöni, and Gächter 2008), I find this isn’t the case. Antisocial punishment is as effective as any other form of punishment in increasing cooperation. Furthermore, the relationship between how much someone cooperates and how much they are punished does not vary across cultures. Instead, this apparent variability is a downstream byproduct of variability in people’s willingness to cooperate. This suggests that future work should focus on why first order defectors are willing to engage in second order cooperation.
+
+*Under Review*
 
 </details>
 
