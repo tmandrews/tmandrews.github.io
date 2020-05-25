@@ -81,7 +81,7 @@ Feeling affected by climate change related natural disasters mobilizes belief in
 
 <details>
   <summary>**When Trust Matters: The Case of Gun Control**<br/>
-Tracy Goodwin, John Barry Ryan, Talbot M. Andrews, & Yanna Krupnikov<br/>
+John Barry Ryan, Talbot M. Andrews, Tracy Goodwin, & Yanna Krupnikov<br/>
 *Under Review*</summary>
 
 Declining trust in government is often cited as the cause of declining support for policies that require ideological sacrifices. At the same time, whether trust in government affects attitudes in a particular issue area is conditional on the political context and can vary over time. We argue and show that when political parties polarize on an issue, then individuals who do not trust the government fear the “slippery slope”. Trust in government affects public policy attitudes when individuals believe small ideological costs now could be the beginning of a process that leads to large ideological costs later. We test the argument on the case of gun control using two datasets. We first show that trust in government affects conservatives’ gun control attitudes as polarization increases over the issue. We then use a continuum of gun control policies to demonstrate that fear of the slippery slope is the mechanism explaining why trust matters.
@@ -118,6 +118,7 @@ Talbot M. Andrews, Reuben Kline, Yanna Krupnikov, & John Barry Ryan <br/>
 What are the most effective messages to mobilize people to engage in climate change mitigation behaviors? One common strategy is to tell individuals about many easy ways they can get involved. However, psychological theories of choice suggest this communication strategy might backfire: when presented with too many options, people become less likely to make any choice at all. Here we conduct a two-wave survey experiment to see if a similar phenomenon occurs with regards to mitigation. In the first wave, we randomly assigned subjects to see messages encouraging either 1, 5, 10, or 20 pro-environmental behaviors drawn from a set which was pre-tested to get a rating of how difficult they were to carry out. Consistent with a theory we call “mitigation overload”, we find that subjects who saw a message suggesting 20 easy ways they could engage in climate change mitigation felt less efficacious. One week later, these subjects also reported engaging in fewer mitigation behaviors compared to those who saw fewer ways to mitigate. But, introducing more difficult items to the list alleviated mitigation overload and increased efficacy. These results suggest more isn’t always better when communicating ways individuals can help stop climate change.
 
 <details>
+
   <summary>**The road to reelection is paved with good intentions: Experiments on the role of outcomes and intentions in voting behavior**<br/>
 Talbot M. Andrews & Scott Bokemper <br/>
 </summary>
