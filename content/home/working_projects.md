@@ -119,8 +119,8 @@ What are the most effective messages to mobilize people to engage in climate cha
 
 <details>
 
-<details>
 
+<details>
   <summary>**The road to reelection is paved with good intentions: Experiments on the role of outcomes and intentions in voting behavior**<br/>
 Talbot M. Andrews & Scott Bokemper <br/>
 </summary>
