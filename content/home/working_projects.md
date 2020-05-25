@@ -119,11 +119,14 @@ What are the most effective messages to mobilize people to engage in climate cha
 
 <details>
 
+<details>
+
   <summary>**The road to reelection is paved with good intentions: Experiments on the role of outcomes and intentions in voting behavior**<br/>
 Talbot M. Andrews & Scott Bokemper <br/>
 </summary>
 
 Politicians signal their intended policy outcomes to voters, such through campaign promises. However, theories of retrospective voting suggest these intentions don’t impact vote choice – so why do politicians spend resources on signaling their intentions? Here, we propose an outcome-intention theory of voting in which voters weigh both policy outcomes and intentions in their choice between candidates. We conducted four incentivized experiments using a novel election game. In these experiments, participants took the role of voters who experienced a better or worse policy enacted by an incumbent and then decided whether to reelect the incumbent or vote in a challenger. We manipulated whether the voters knew whether the incumbent intended to enact the outcome that voters experienced. Across all four experiments, we found intentions matter. Voters rewarded incumbents who purposefully enacted good outcomes and forgave incumbents for bad outcomes that were not intended.
+
 </details>
 
 
