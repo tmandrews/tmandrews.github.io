@@ -119,6 +119,17 @@ What are the most effective messages to mobilize people to engage in climate cha
 
 </details>
 
+<details>
+  <summary>**Contextual Constraints on Discussion Partner Choice and Correct Voting**<br/>
+John Barry Ryan & Talbot M. Andrews<br/>
+*Under Review*<br/>
+</summary>
+
+Using a group based experiment, we demonstrate how contextual constraints in discussion partner choice can aid the efficacy of discussion as an information shortcut. Previous research has shown that political agreement is more important than expertise when individuals seek to use discussion as an information shortcut. In contrast, individuals typically place more weight on expertise than disagreement when choosing political discussion partners. As a result, the efficacy of political discussion improves when the supply of discussion partners is constrained to likeminded individuals. In effect, this prevents individuals from choosing a knowledgeable discussion partner who may provide biased information that misleads the individual. Ultimately these constraints result in more accurate information sharing and more individual-level correct voting when individuals are sorted into neighborhoods based on political preference. Further, the electorate’s preferred candidate – typically the less extreme candidate – is more likely to win when voters are sorted into ideologically distinct neighborhoods.   
+
+</details>
+
+
 
 <details>
   <summary>**The road to reelection is paved with good intentions: Experiments on the role of outcomes and intentions in voting behavior**<br/>
