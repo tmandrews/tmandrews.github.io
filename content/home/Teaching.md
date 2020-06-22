@@ -47,7 +47,8 @@ title = "Teaching"
 +++
 
 ## POL 543 & 390: Environmental Policy and Politics
-*Summer 2019 (Online, cross listed as a masters and undergraduate course)* <br/>
+*Summer 2019 & 2020 <br/>
+(Online, cross listed as a masters and undergraduate course)* <br/>
 *[Syllabus](https://drive.google.com/file/d/1l8u-ibXDk6rmTCDwv4Iul7b7XE0EyOnJ/view)* <br/>
 Environmental policy is one of the most important and contentious areas of politics today. In this course we will cover how environmental policy is made, what major federal policies exist today, and how policies relate to public opinion and individual behavior. Overall, by addressing these three topics, this course will give students the tools to understand and evaluate the complex environmental policymaking environment. 
 
