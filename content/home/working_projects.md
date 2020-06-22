@@ -48,13 +48,13 @@ subtitle = "Pre-Prints Available for All Projects on Request"
 +++
 
 
-<details>
-  <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
-Talbot M. Andrews & John Barry Ryan<br/>
-*Under Review*
-</summary>
 
-How do we best mobilize people to pay the costs of disaster prevention? Thoughintuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
+<details>
+  <summary>**Rebel Recruitment in Civil Conflict**<br/>
+Katherine Sawyer & Talbot M. Andrews<br/>
+*Revise & Resubmit*</summary>
+
+While the conflict literature has examined the use of forced recruitment and child soldering, the question remains why groups would chose to do so when forced recruits require expensive coercion (Eck 2014) and time intensive socialization processes (Gates 2017). The prevailing wisdom in the literature is that forced recruitment is a tactic of the weak (Eck 2014); yet empirically, we often observe relatively strong rebel groups employing forced recruitment (Gates 2017). We resolve this disparity by developing a unified formal model of recruitment that matches the individual’s talent and utility for fighting with that of the rebel group’s. Critically, the model demonstrates that forced recruitment is not a tactic of last resort, but rather a method used by strong rebel groups who can credibly threaten defectors. The formal model is supported quantitatively and qualitatively using cross-national data on rebel recruitment practices (Cohen 2013) and case illustrations of the contras in Nicaragua and the Farabundo Martí National Liberation Front (FMLN) in El Salvador. The results speak to the growing literature emphasizing the importance of integrating individual and group level processes both theoretically and empirically.  
 
 </details>
 
@@ -75,25 +75,6 @@ Talbot M. Andrews & Oleg Smirnov<br/>
 </summary>
 
 Feeling affected by climate change related natural disasters mobilizes belief in climate change, concern about the issue, and support for mitigation policies. This holds true even when accounting for the effects of physically living through a natural disaster. In this study we use a two-wave survey design where respondents in the United States were interviewed before and after Hurricane Florence to better understand who feels affected by such disasters. First, we find that being worried about climate change increases the feeling of being affected by the hurricane among those who regularly discuss climate change. Second, we find that those who are high in perspective taking are more likely to feel affected. However, those who are high in empathic concern, but feel obligated to help victims of disasters, are less likely to feel affected. This suggests that hurricanes cause a collapse of compassion, where those who are especially sensitive to the suffering of others down-regulate their emotional response to costly disasters.
-
-</details>
-
-
-<details>
-  <summary>**When Trust Matters: The Case of Gun Control**<br/>
-John Barry Ryan, Talbot M. Andrews, Tracy Goodwin, & Yanna Krupnikov<br/>
-*Under Review*</summary>
-
-Declining trust in government is often cited as the cause of declining support for policies that require ideological sacrifices. At the same time, whether trust in government affects attitudes in a particular issue area is conditional on the political context and can vary over time. We argue and show that when political parties polarize on an issue, then individuals who do not trust the government fear the “slippery slope”. Trust in government affects public policy attitudes when individuals believe small ideological costs now could be the beginning of a process that leads to large ideological costs later. We test the argument on the case of gun control using two datasets. We first show that trust in government affects conservatives’ gun control attitudes as polarization increases over the issue. We then use a continuum of gun control policies to demonstrate that fear of the slippery slope is the mechanism explaining why trust matters.
-
-</details>
-
-<details>
-  <summary>**Rebel Recruitment in Civil Conflict**<br/>
-Katherine Sawyer & Talbot M. Andrews<br/>
-*Under Review*</summary>
-
-While the conflict literature has examined the use of forced recruitment and child soldering, the question remains why groups would chose to do so when forced recruits require expensive coercion (Eck 2014) and time intensive socialization processes (Gates 2017). The prevailing wisdom in the literature is that forced recruitment is a tactic of the weak (Eck 2014); yet empirically, we often observe relatively strong rebel groups employing forced recruitment (Gates 2017). We resolve this disparity by developing a unified formal model of recruitment that matches the individual’s talent and utility for fighting with that of the rebel group’s. Critically, the model demonstrates that forced recruitment is not a tactic of last resort, but rather a method used by strong rebel groups who can credibly threaten defectors. The formal model is supported quantitatively and qualitatively using cross-national data on rebel recruitment practices (Cohen 2013) and case illustrations of the contras in Nicaragua and the Farabundo Martí National Liberation Front (FMLN) in El Salvador. The results speak to the growing literature emphasizing the importance of integrating individual and group level processes both theoretically and empirically.  
 
 </details>
 
@@ -140,6 +121,17 @@ Politicians signal their intended policy outcomes to voters, such through campai
 
 </details>
 
+
+
+<details>
+  <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
+Talbot M. Andrews & John Barry Ryan<br/>
+*Under Review*
+</summary>
+
+How do we best mobilize people to pay the costs of disaster prevention? Thoughintuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
+
+</details>
 
 
 

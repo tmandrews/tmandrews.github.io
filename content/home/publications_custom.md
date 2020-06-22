@@ -50,6 +50,15 @@ subtitle = ""
 ## Peer-Reviewed Publications
 
 <details>
+  <summary>**When Trust Matters: The Case of Gun Control**<br/>
+John Barry Ryan, Talbot M. Andrews, Tracy Goodwin, & Yanna Krupnikov<br/>
+*Political Behavior, Conditionally Accepted*</summary>
+
+Declining trust in government is often cited as the cause of declining support for policies that require ideological sacrifices. At the same time, whether trust in government affects attitudes in a particular issue area is conditional on the political context and can vary over time. We argue and show that when political parties polarize on an issue, then individuals who do not trust the government fear the “slippery slope”. Trust in government affects public policy attitudes when individuals believe small ideological costs now could be the beginning of a process that leads to large ideological costs later. We test the argument on the case of gun control using two datasets. We first show that trust in government affects conservatives’ gun control attitudes as polarization increases over the issue. We then use a continuum of gun control policies to demonstrate that fear of the slippery slope is the mechanism explaining why trust matters.
+
+</details>
+
+<details>
   <summary>**[High Risk-High Reward Investments to Mitigate Climate Change](https://www.nature.com/articles/s41558-018-0266-y)**<br/>
 Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
 *Nature Climate Change, 2018*</summary>
