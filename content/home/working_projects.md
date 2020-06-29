@@ -47,7 +47,15 @@ subtitle = "Pre-Prints Available for All Projects on Request"
  css_class = ""
 +++
 
+<details>
+  <summary>**Who feels the impacts of climate change?**<br/>
+Talbot M. Andrews & Oleg Smirnov<br/>
+*Revise & Resubmit*</summary>
+</summary>
 
+Feeling affected by climate change related natural disasters mobilizes belief in climate change, concern about the issue, and support for mitigation policies. This holds true even when accounting for the effects of physically living through a natural disaster. In this study we use a two-wave survey design where respondents in the United States were interviewed before and after Hurricane Florence to better understand who feels affected by such disasters. First, we find that being worried about climate change increases the feeling of being affected by the hurricane among those who regularly discuss climate change. Second, we find that those who are high in perspective taking are more likely to feel affected. However, those who are high in empathic concern, but feel obligated to help victims of disasters, are less likely to feel affected. This suggests that hurricanes cause a collapse of compassion, where those who are especially sensitive to the suffering of others down-regulate their emotional response to costly disasters.
+
+</details>
 
 <details>
   <summary>**Rebel Recruitment in Civil Conflict**<br/>
@@ -65,16 +73,6 @@ Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
 </summary>
 
 Climate change is an extremely polarized issue in the United States, with leaders across the political spectrum sending very different messages about whether and how we should implement mitigation policies. Do citizens have the tools necessary to distinguish between helpful and unhelpful information about mitigation policies? Leaders have different incentives which constrain their support for or opposition to mitigation spending. Here we test whether citizens are sensitive to different institutions which may give leaders an incentive to misrepresent the cost of providing public goods like mitigation or disaster prevention. We use an incentivized experiment to do so, specifically using a modified collective risk social dilemma. In this public goods game, players must contribute enough money to prepare for an ongoing disaster. Leaders know the exact cost of damage prevention, and send signals to the other players about the cost. We show that people are sensitive to institutional differences: when leaders have a stake in inefficiency, citizens trust the leader less and contribute less to the public good. In the midst of bleak research on mitigation policy support, we provide optimistic evidence of people’s ability to differentiate between helpful and unhelpful information about mitigation policies
-
-</details>
-
-<details>
-  <summary>**Who feels the impacts of climate change?**<br/>
-Talbot M. Andrews & Oleg Smirnov<br/>
-*Under Review*
-</summary>
-
-Feeling affected by climate change related natural disasters mobilizes belief in climate change, concern about the issue, and support for mitigation policies. This holds true even when accounting for the effects of physically living through a natural disaster. In this study we use a two-wave survey design where respondents in the United States were interviewed before and after Hurricane Florence to better understand who feels affected by such disasters. First, we find that being worried about climate change increases the feeling of being affected by the hurricane among those who regularly discuss climate change. Second, we find that those who are high in perspective taking are more likely to feel affected. However, those who are high in empathic concern, but feel obligated to help victims of disasters, are less likely to feel affected. This suggests that hurricanes cause a collapse of compassion, where those who are especially sensitive to the suffering of others down-regulate their emotional response to costly disasters.
 
 </details>
 
@@ -115,6 +113,7 @@ Using a group based experiment, we demonstrate how contextual constraints in dis
 <details>
   <summary>**The road to reelection is paved with good intentions: Experiments on the role of outcomes and intentions in voting behavior**<br/>
 Talbot M. Andrews & Scott Bokemper <br/>
+*Under Review*<br/>
 </summary>
 
 Politicians signal their intended policy outcomes to voters, such through campaign promises. However, theories of retrospective voting suggest these intentions don’t impact vote choice – so why do politicians spend resources on signaling their intentions? Here, we propose an outcome-intention theory of voting in which voters weigh both policy outcomes and intentions in their choice between candidates. We conducted four incentivized experiments using a novel election game. In these experiments, participants took the role of voters who experienced a better or worse policy enacted by an incumbent and then decided whether to reelect the incumbent or vote in a challenger. We manipulated whether the voters knew whether the incumbent intended to enact the outcome that voters experienced. Across all four experiments, we found intentions matter. Voters rewarded incumbents who purposefully enacted good outcomes and forgave incumbents for bad outcomes that were not intended.
@@ -129,7 +128,8 @@ Talbot M. Andrews & John Barry Ryan<br/>
 *Under Review*
 </summary>
 
-How do we best mobilize people to pay the costs of disaster prevention? Thoughintuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
+How do we best mobilize people to pay the costs of disaster prevention? Though
+intuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
 
 </details>
 
