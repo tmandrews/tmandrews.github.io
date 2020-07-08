@@ -50,7 +50,7 @@ subtitle = ""
 ## Peer-Reviewed Publications
 
 <details>
-  <summary>**When Trust Matters: The Case of Gun Control**<br/>
+  <summary>**[When Trust Matters: The Case of Gun Control](https://link.springer.com/article/10.1007%2Fs11109-020-09633-2#Abs1)**<br/>
 John Barry Ryan, Talbot M. Andrews, Tracy Goodwin, & Yanna Krupnikov<br/>
 *Political Behavior, Conditionally Accepted*</summary>
 
