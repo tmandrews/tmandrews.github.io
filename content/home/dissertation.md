@@ -53,7 +53,8 @@ In this series of papers I use a variety of methods to answer important question
 
 
 <details>
-  <summary>**Chapter 1: The Paradox of Climate Concern: Declining Mitigation Support after Natural Disasters**</summary>
+  <summary>**Chapter 1: The Paradox of Climate Concern: Declining Mitigation Support after Natural Disasters** <br/>
+*Under Review* </summary>
 
 Can people respond to political shocks with appropriate policy preferences? Political shocks capture the attention of the public and encourage citizens to consider how to respond to the event. However, they also activate competing considerations which may lead to counterintuitive and counterproductive policy preferences. Here I focus on the case of exposure to natural disasters and support for climate change mitigation policies. Leveraging Hurricane Sandy and Hurricane Matthew as natural experiments, I find that exposure to hurricanes has a limited effect on belief in climate change and general climate change mitigation. Unfortunately, exposure to these disasters significantly decreases support for a key mitigation technology: nuclear power. While personal experiences may help people update their beliefs, the path from personal experience to policy preferences is complex and undermined by other considerations activated by disasters. 
 
