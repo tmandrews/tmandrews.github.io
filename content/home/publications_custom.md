@@ -50,9 +50,18 @@ subtitle = ""
 ## Peer-Reviewed Publications
 
 <details>
+  <summary>**Rebel Recruitment in Civil Conflict**<br/>
+Katherine Sawyer & Talbot M. Andrews<br/>
+*Conditionally Accepted, International Interactions*</summary>
+
+While the conflict literature has examined the use of forced recruitment and child soldering, the question remains why groups would chose to do so when forced recruits require expensive coercion (Eck 2014) and time intensive socialization processes (Gates 2017). The prevailing wisdom in the literature is that forced recruitment is a tactic of the weak (Eck 2014); yet empirically, we often observe relatively strong rebel groups employing forced recruitment (Gates 2017). We resolve this disparity by developing a unified formal model of recruitment that matches the individual’s talent and utility for fighting with that of the rebel group’s. Critically, the model demonstrates that forced recruitment is not a tactic of last resort, but rather a method used by strong rebel groups who can credibly threaten defectors. The formal model is supported quantitatively and qualitatively using cross-national data on rebel recruitment practices (Cohen 2013) and case illustrations of the contras in Nicaragua and the Farabundo Martí National Liberation Front (FMLN) in El Salvador. The results speak to the growing literature emphasizing the importance of integrating individual and group level processes both theoretically and empirically.  
+
+</details>
+
+<details>
   <summary>**[When Trust Matters: The Case of Gun Control](https://link.springer.com/article/10.1007%2Fs11109-020-09633-2#Abs1)**<br/>
 John Barry Ryan, Talbot M. Andrews, Tracy Goodwin, & Yanna Krupnikov<br/>
-*Political Behavior, Conditionally Accepted*</summary>
+*Political Behavior, 2020*</summary>
 
 Declining trust in government is often cited as the cause of declining support for policies that require ideological sacrifices. At the same time, whether trust in government affects attitudes in a particular issue area is conditional on the political context and can vary over time. We argue and show that when political parties polarize on an issue, then individuals who do not trust the government fear the “slippery slope”. Trust in government affects public policy attitudes when individuals believe small ideological costs now could be the beginning of a process that leads to large ideological costs later. We test the argument on the case of gun control using two datasets. We first show that trust in government affects conservatives’ gun control attitudes as polarization increases over the issue. We then use a continuum of gun control policies to demonstrate that fear of the slippery slope is the mechanism explaining why trust matters.
 
