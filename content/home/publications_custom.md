@@ -50,7 +50,7 @@ subtitle = ""
 ## Peer-Reviewed Publications
 
 <details>
-  <summary>**Rebel Recruitment in Civil Conflict**<br/>
+  <summary>**Rebel Recruitment and Retention in Civil Conflict**<br/>
 Katherine Sawyer & Talbot M. Andrews<br/>
 *International Interactions, Conditionally Accepted*</summary>
 
