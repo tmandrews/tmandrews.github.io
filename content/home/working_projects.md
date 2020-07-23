@@ -58,15 +58,6 @@ Feeling affected by climate change related natural disasters mobilizes belief in
 </details>
 
 <details>
-  <summary>**Rebel Recruitment in Civil Conflict**<br/>
-Katherine Sawyer & Talbot M. Andrews<br/>
-*Revise & Resubmit*</summary>
-
-While the conflict literature has examined the use of forced recruitment and child soldering, the question remains why groups would chose to do so when forced recruits require expensive coercion (Eck 2014) and time intensive socialization processes (Gates 2017). The prevailing wisdom in the literature is that forced recruitment is a tactic of the weak (Eck 2014); yet empirically, we often observe relatively strong rebel groups employing forced recruitment (Gates 2017). We resolve this disparity by developing a unified formal model of recruitment that matches the individual’s talent and utility for fighting with that of the rebel group’s. Critically, the model demonstrates that forced recruitment is not a tactic of last resort, but rather a method used by strong rebel groups who can credibly threaten defectors. The formal model is supported quantitatively and qualitatively using cross-national data on rebel recruitment practices (Cohen 2013) and case illustrations of the contras in Nicaragua and the Farabundo Martí National Liberation Front (FMLN) in El Salvador. The results speak to the growing literature emphasizing the importance of integrating individual and group level processes both theoretically and empirically.  
-
-</details>
-
-<details>
   <summary>**Who do you trust? Inefficiency Incentives in Climate Change Mitigation**<br/>
 Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
 *Under Review*
