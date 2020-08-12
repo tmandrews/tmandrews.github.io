@@ -4,8 +4,9 @@ authors:
 bio: My research interests include individual and institutional responses to climate change.
 education:
   courses:
-  - course: PhD Candidate in Political Science
+  - course: PhD in Political Science
     institution: Stony Brook University
+    year: August 2020
   - course: BA in Political Science & Psychology
     institution: University of Portland
     year: 2012
@@ -14,12 +15,12 @@ interests:
 - Experimental Social Science
 - Political Behavior
 - Formal Theory
-- Climate Change & Natural Disasters
+- Climate Change & Natural Hazards
 name: Talbot M. Andrews
 organizations:
-- name: Stony Brook University
+- name: Princeton University
   url: ""
-role: PhD Candidate
+role: Postdoctoral Research Associate
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,6 +39,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a fourth year PhD candidate in the department of Political Science at Stony Brook University. I am also the current lab manager for the Stony Brook [Center for Behavioral Political Economy](https://www.stonybrook.edu/commcms/cbpe/). 
+I am a postdoctoral research associate at Princeton University in the [Center for the Study of Democratic Politics](https://csdp.princeton.edu/). I earned my PhD in the department of Political Science at Stony Brook University in August of 2020.
 
-I am primarily interested in individual and institutional responses to climate change. I study both public opinion and the behavioral political economy of individual risk and mitigation preferences using experimental evidence and formal modeling. I am also more generally interested in social dilemmas.
+I am primarily interested in individual and institutional responses to climate change. I study both public opinion and the behavioral political economy of risk and mitigation preferences using experimental evidence and formal modeling. I am also more generally interested in social dilemmas.
