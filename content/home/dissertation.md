@@ -47,7 +47,7 @@ subtitle = "**Mobilizing Mitigation: Overcoming the Social Dilemma of Climate Ch
  css_class = ""
 +++
 
-**Committee:** Reuben Kline (Co-Chair), John Barry Ryan (Co-Chair), Andrew W. Delton, & Yanna Krupnikov
+**Committee:** Reuben Kline (Co-Chair), John Barry Ryan (Co-Chair), Andrew W. Delton, Yanna Krupnikov, & Jennifer Wolak
 
 In this series of papers I use a variety of methods to answer important questions related to climate change mitigation. Why do we cooperate (and fail to cooperate) with each other when overcoming the social dilemmas inherent in climate change mitigation? How do natural disasters shape mitigation policy preferences? How do citizens and environmentalists trade off between environmental conservation and climate change mitigation? 
 
