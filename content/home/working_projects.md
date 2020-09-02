@@ -67,6 +67,17 @@ Climate change is an extremely polarized issue in the United States, with leader
 
 </details>
 
+<details>
+  <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
+Talbot M. Andrews & John Barry Ryan<br/>
+*Under Review*
+</summary>
+
+How do we best mobilize people to pay the costs of disaster prevention? Though
+intuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
+
+</details>
+
 
 <details>
   <summary>**Making useful political decisions for others: Experiments on Strategic Social Preferences**<br/>
@@ -89,17 +100,6 @@ What are the most effective messages to mobilize people to engage in climate cha
 
 </details>
 
-<details>
-  <summary>**Contextual Constraints on Discussion Partner Choice and Correct Voting**<br/>
-John Barry Ryan & Talbot M. Andrews<br/>
-*Under Review*<br/>
-</summary>
-
-Using a group based experiment, we demonstrate how contextual constraints in discussion partner choice can aid the efficacy of discussion as an information shortcut. Previous research has shown that political agreement is more important than expertise when individuals seek to use discussion as an information shortcut. In contrast, individuals typically place more weight on expertise than disagreement when choosing political discussion partners. As a result, the efficacy of political discussion improves when the supply of discussion partners is constrained to likeminded individuals. In effect, this prevents individuals from choosing a knowledgeable discussion partner who may provide biased information that misleads the individual. Ultimately these constraints result in more accurate information sharing and more individual-level correct voting when individuals are sorted into neighborhoods based on political preference. Further, the electorate’s preferred candidate – typically the less extreme candidate – is more likely to win when voters are sorted into ideologically distinct neighborhoods.   
-
-</details>
-
-
 
 <details>
   <summary>**The road to reelection is paved with good intentions: Experiments on the role of outcomes and intentions in voting behavior**<br/>
@@ -114,13 +114,11 @@ Politicians signal their intended policy outcomes to voters, such through campai
 
 
 <details>
-  <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
-Talbot M. Andrews & John Barry Ryan<br/>
-*Under Review*
+  <summary>**Contextual Constraints on Discussion Partner Choice and Correct Voting**<br/>
+John Barry Ryan & Talbot M. Andrews<br/>
 </summary>
 
-How do we best mobilize people to pay the costs of disaster prevention? Though
-intuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
+Using a group based experiment, we demonstrate how contextual constraints in discussion partner choice can aid the efficacy of discussion as an information shortcut. Previous research has shown that political agreement is more important than expertise when individuals seek to use discussion as an information shortcut. In contrast, individuals typically place more weight on expertise than disagreement when choosing political discussion partners. As a result, the efficacy of political discussion improves when the supply of discussion partners is constrained to likeminded individuals. In effect, this prevents individuals from choosing a knowledgeable discussion partner who may provide biased information that misleads the individual. Ultimately these constraints result in more accurate information sharing and more individual-level correct voting when individuals are sorted into neighborhoods based on political preference. Further, the electorate’s preferred candidate – typically the less extreme candidate – is more likely to win when voters are sorted into ideologically distinct neighborhoods.   
 
 </details>
 
