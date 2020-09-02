@@ -10,7 +10,7 @@ education:
   - course: BA in Political Science & Psychology
     institution: University of Portland
     year: 2012
-email: "talbot.andrews@stonybrook.edu"
+email: "talbota@princeton.edu"
 interests:
 - Experimental Social Science
 - Political Behavior
@@ -24,7 +24,7 @@ role: Postdoctoral Research Associate
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:talbot.andrews@stonybrook.edu
+  link: mailto:talbota@princeton.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/talbotmandrews
