@@ -50,9 +50,19 @@ subtitle = ""
 ## Peer-Reviewed Publications
 
 <details>
+  <summary>**Who feels the impacts of climate change?**<br/>
+Talbot M. Andrews & Oleg Smirnov<br/>
+*Global Environmental Change, Accepted*</summary>
+</summary>
+
+Feeling affected by climate change related natural disasters mobilizes belief in climate change, concern about the issue, and support for mitigation policies. This holds true even when accounting for the effects of physically living through a natural disaster. In this study we use a two-wave survey design where respondents in the United States were interviewed before and after Hurricane Florence to better understand who feels affected by such disasters. First, we find that being worried about climate change increases the feeling of being affected by the hurricane among those who regularly discuss climate change. Second, we find that those who are high in perspective taking are more likely to feel affected. However, those who are high in empathic concern, but feel obligated to help victims of disasters, are less likely to feel affected. This suggests that hurricanes cause a collapse of compassion, where those who are especially sensitive to the suffering of others down-regulate their emotional response to costly disasters.
+
+</details>
+
+<details>
   <summary>**Rebel Recruitment and Retention in Civil Conflict**<br/>
 Katherine Sawyer & Talbot M. Andrews<br/>
-*International Interactions, Conditionally Accepted*</summary>
+*International Interactions, Accepted*</summary>
 
 While the conflict literature has examined the use of forced recruitment in conflict, the question remains why groups would choose to do so when forced recruits require expensive coercion (Eck 2014) and time intensive socialization processes (Gates 2017). The prevailing wisdom in the literature is that forced recruitment is a tactic of the weak; yet empirically, we often observe relatively strong rebel groups employing forced recruitment. In this paper, we argue that credible threats of punishment for desertion are a prerequisite to successful coercive recruitment. Thus, stronger rebels, those that are able to credibly threaten punishment, are more likely to engage in forced recruitment than are weaker rebels. Forced recruitment is not a tactic of last resort but a human rights abuse frequently exploited by already advantaged rebel groups. We find strong support for our argument quantitatively and qualitatively using cross-national data on rebel recruitment practices (Cohen 2016) and case illustrations of the contras in Nicaragua and the Farabundo Martí National Liberation Front (FMLN) in El Salvador. The results speak to the growing literature emphasizing the importance of integrating individual and group level processes both theoretically and empirically.
 
