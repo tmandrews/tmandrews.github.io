@@ -48,16 +48,6 @@ subtitle = "Pre-Prints Available for All Projects on Request"
 +++
 
 <details>
-  <summary>**Who feels the impacts of climate change?**<br/>
-Talbot M. Andrews & Oleg Smirnov<br/>
-*Revise & Resubmit*</summary>
-</summary>
-
-Feeling affected by climate change related natural disasters mobilizes belief in climate change, concern about the issue, and support for mitigation policies. This holds true even when accounting for the effects of physically living through a natural disaster. In this study we use a two-wave survey design where respondents in the United States were interviewed before and after Hurricane Florence to better understand who feels affected by such disasters. First, we find that being worried about climate change increases the feeling of being affected by the hurricane among those who regularly discuss climate change. Second, we find that those who are high in perspective taking are more likely to feel affected. However, those who are high in empathic concern, but feel obligated to help victims of disasters, are less likely to feel affected. This suggests that hurricanes cause a collapse of compassion, where those who are especially sensitive to the suffering of others down-regulate their emotional response to costly disasters.
-
-</details>
-
-<details>
   <summary>**Who do you trust? Inefficiency Incentives in Climate Change Mitigation**<br/>
 Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
 *Under Review*
