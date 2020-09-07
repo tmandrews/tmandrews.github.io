@@ -83,7 +83,7 @@ Activists have the potential to overcome the problem of low political participat
 
 <details>
   <summary>**Chapter 4: (Antisocial) Punishment is Equally Effective Across cultures**<br/>
-*Review & Resubmit*
+*Revise & Resubmit*
 
 </summary>
 
