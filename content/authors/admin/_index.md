@@ -9,7 +9,7 @@ education:
     year: August 2020
   - course: BA in Political Science & Psychology
     institution: University of Portland
-    year: 2012
+    year: 2016
 email: "talbota@princeton.edu"
 interests:
 - Experimental Social Science
