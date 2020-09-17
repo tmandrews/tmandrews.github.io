@@ -50,12 +50,12 @@ subtitle = ""
 ## Peer-Reviewed Publications
 
 <details>
-  <summary>**Who feels the impacts of climate change?**<br/>
+  <summary>**[Who feels the impacts of climate change?](https://authors.elsevier.com/a/1blrA3Q8oQ6n8E)**<br/>
 Talbot M. Andrews & Oleg Smirnov<br/>
-*Global Environmental Change, Accepted*</summary>
+*Global Environmental Change, 2020*</summary>
 </summary>
 
-Feeling affected by climate change related natural disasters mobilizes belief in climate change, concern about the issue, and support for mitigation policies. This holds true even when accounting for the effects of physically living through a natural disaster. In this study we use a two-wave survey design where respondents in the United States were interviewed before and after Hurricane Florence to better understand who feels affected by such disasters. First, we find that being worried about climate change increases the feeling of being affected by the hurricane among those who regularly discuss climate change. Second, we find that those who are high in perspective taking are more likely to feel affected. However, those who are high in empathic concern, but feel obligated to help victims of disasters, are less likely to feel affected. This suggests that hurricanes cause a collapse of compassion, where those who are especially sensitive to the suffering of others down-regulate their emotional response to costly disasters.
+Feeling affected by climate change related disasters has the potential to mobilize belief in climate change, concern about the issue, and support for mitigation policies – even when accounting for the effects of physically living through a disaster. In this study we use a two-wave survey design where respondents in the United States were interviewed before and after Hurricane Florence to better understand who feels affected by such disasters. First, we find that being worried about climate change increases the feeling of being affected by the hurricane among those who regularly discuss climate change. Second, we find that those who are high in perspective taking are more likely to feel affected. However, those who are high in empathic concern, but feel obligated to help victims of disasters, are less likely to feel affected. This suggests that hurricanes may cause a collapse of compassion, where those who are especially sensitive to the suffering of others down-regulate their emotional response to costly disasters.
 
 </details>
 
