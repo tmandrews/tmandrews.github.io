@@ -98,6 +98,16 @@ Women's body attractiveness is influenced by specific anthropometric cues, inclu
 
 ## Other Published Work
 
+
+<details>
+  <summary>**[Two-wave panel survey dataset on who feels affected by Hurricane Florence](https://authors.elsevier.com/sd/article/S2352-3409(20)31254-3)**<br/>
+Talbot M. Andrews & Oleg Smirnov<br/>
+*Data in Brief,* 2020 </summary>
+
+Feeling affected by climate change related natural disasters is an important predictor of engaging in climate change mitigation behavior. We therefore collected data to identify who felt affected by Hurricane Florence, which made landfall in the United States on September 14th, 2018. In the months before Hurricane Florence, we collected survey responses from a nationally representative sample of United States citizens. We measured their attitudes towards climate change, emotional predispositions, and demographic information. Then, in the days after the hurricane, we re-contacted respondents to identify whether or not they felt personally affected by Hurricane Florence. These data can be used first to identify variables associated with climate change attitudes, and second to identify the traits that predispose individuals to feel affected by climate change related disasters.
+
+</details>
+
 <details>
   <summary>**[The Political Complexity of Attack and Defense](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/political-complexity-of-attack-and-defense/6ACF625C6461990162421633901BD753)**<br/>
 Talbot M. Andrews, Leonie Huddy, Reuben Kline, H. Hannah Nam, and Katherine Sawyer<br/>
