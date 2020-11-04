@@ -48,6 +48,16 @@ subtitle = "Pre-Prints Available for All Projects on Request"
 +++
 
 <details>
+  <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
+Talbot M. Andrews & John Barry Ryan<br/>
+*Revise & Resubmit*
+</summary>
+
+How do we best mobilize people to pay the costs of disaster prevention? Though intuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
+
+</details>
+
+<details>
   <summary>**Who do you trust? Inefficiency Incentives in Climate Change Mitigation**<br/>
 Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
 *Under Review*
@@ -56,18 +66,6 @@ Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
 Climate change is an extremely polarized issue in the United States, with leaders across the political spectrum sending very different messages about whether and how we should implement mitigation policies. Do citizens have the tools necessary to distinguish between helpful and unhelpful information about mitigation policies? Leaders have different incentives which constrain their support for or opposition to mitigation spending. Here we test whether citizens are sensitive to different institutions which may give leaders an incentive to misrepresent the cost of providing public goods like mitigation or disaster prevention. We use an incentivized experiment to do so, specifically using a modified collective risk social dilemma. In this public goods game, players must contribute enough money to prepare for an ongoing disaster. Leaders know the exact cost of damage prevention, and send signals to the other players about the cost. We show that people are sensitive to institutional differences: when leaders have a stake in inefficiency, citizens trust the leader less and contribute less to the public good. In the midst of bleak research on mitigation policy support, we provide optimistic evidence of people’s ability to differentiate between helpful and unhelpful information about mitigation policies
 
 </details>
-
-<details>
-  <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
-Talbot M. Andrews & John Barry Ryan<br/>
-*Under Review*
-</summary>
-
-How do we best mobilize people to pay the costs of disaster prevention? Though
-intuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
-
-</details>
-
 
 <details>
   <summary>**Making useful political decisions for others: Experiments on Strategic Social Preferences**<br/>
