@@ -67,6 +67,18 @@ Politics often involves making decisions on behalf of others. Will citizens make
 
 </details>
 
+
+<details>
+  <summary>**Climate Change Literacy in Africa**<br/>
+Nicholas Philip Simpson, Talbot M. Andrews, Matthias Kronke, Christopher Lennard, Romaric C. Odoulami, Birgitt Ouweneel, Anna Steynor, & Christopher H. Trisos<br/>
+*Revise & Resubmit*
+</summary>
+
+Climate change literacy is defined as being both aware of climate change and its anthropogenic causes, and thus underpins informed mitigation and adaptation responses. However, climate change literacy rates and their predictors remain poorly understood across the Global South. Here, we analysed Africa’s largest, representative public opinion survey to quantify change literacy rates. Climate change literacy ranges from 23–66% of the population across 33 countries, with larger variation at subnational scales (e.g., 5–71% among states in Nigeria). Strong positive predictors of climate change literacy are education and mobility, but poverty decreases climate change literacy and women are less likely to be climate change literate than men. Perceived drought experiences and historical trends in precipitation are also important predictors. These results highlight where services can target specific regions and demographics to increase climate change literacy and help ensure adaptation responses are informed by better understandings of future climate change. 
+
+</details>
+
+
 <details>
   <summary>**Who do you trust? Inefficiency Incentives in Climate Change Mitigation**<br/>
 Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
@@ -86,18 +98,6 @@ Talbot M. Andrews, Reuben Kline, Yanna Krupnikov, & John Barry Ryan <br/>
 What are the most effective messages to mobilize people to engage in climate change mitigation behaviors? One common strategy is to tell individuals about many easy ways they can get involved. However, psychological theories of choice suggest this communication strategy might backfire: when presented with too many options, people become less likely to make any choice at all. Here we conduct a two-wave survey experiment to see if a similar phenomenon occurs with regards to mitigation. In the first wave, we randomly assigned subjects to see messages encouraging either 1, 5, 10, or 20 pro-environmental behaviors drawn from a set which was pre-tested to get a rating of how difficult they were to carry out. Consistent with a theory we call “mitigation overload”, we find that subjects who saw a message suggesting 20 easy ways they could engage in climate change mitigation felt less efficacious. One week later, these subjects also reported engaging in fewer mitigation behaviors compared to those who saw fewer ways to mitigate. But, introducing more difficult items to the list alleviated mitigation overload and increased efficacy. These results suggest more isn’t always better when communicating ways individuals can help stop climate change.
 
 </details>
-
-
-<details>
-  <summary>**Climate Change Literacy in Africa**<br/>
-Nicholas Philip Simpson, Talbot M. Andrews, Matthias Kronke, Christopher Lennard, Romaric C. Odoulami, Birgitt Ouweneel, Anna Steynor, & Christopher H. Trisos<br/>
-*Under Review*
-</summary>
-
-Climate change literacy is defined as being both aware of climate change and its anthropogenic causes, and thus underpins informed mitigation and adaptation responses. However, climate change literacy rates and their predictors remain poorly understood across the Global South. Here, we analysed Africa’s largest, representative public opinion survey to quantify change literacy rates. Climate change literacy ranges from 23–66% of the population across 33 countries, with larger variation at subnational scales (e.g., 5–71% among states in Nigeria). Strong positive predictors of climate change literacy are education and mobility, but poverty decreases climate change literacy and women are less likely to be climate change literate than men. Perceived drought experiences and historical trends in precipitation are also important predictors. These results highlight where services can target specific regions and demographics to increase climate change literacy and help ensure adaptation responses are informed by better understandings of future climate change. 
-
-</details>
-
 
 <details>
   <summary>**The road to reelection is paved with good intentions: Experiments on the role of outcomes and intentions in voting behavior**<br/>
