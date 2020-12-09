@@ -41,4 +41,4 @@ user_groups:
 ---
 I am a postdoctoral research associate at Princeton University in the [Center for the Study of Democratic Politics](https://csdp.princeton.edu/). I earned my PhD in the department of Political Science at Stony Brook University in August of 2020.
 
-I am primarily interested in individual and institutional responses to climate change. I study both public opinion and the behavioral political economy of risk and mitigation preferences using experimental evidence and formal modeling. [Andrew Delton](https://sites.google.com/site/andrewdeltonpubs/), [Reuben Kline](https://sites.google.com/site/reubenckline/), and I are writing a book (with University of Michigan Press) on behavioral economic insights into climate change mitigation behavior. 
+I am primarily interested in individual and institutional responses to climate change. I study both public opinion and the behavioral political economy of risk and mitigation preferences using experimental evidence and formal modeling. I am also more broadly interested in US public opinion, especially as it is shaped by major events such as natural disasters.
