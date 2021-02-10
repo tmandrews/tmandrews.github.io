@@ -50,7 +50,7 @@ subtitle = ""
 ## Peer-Reviewed Publications
 
 <details>
-  <summary>**[Who feels the impacts of climate change?](https://authors.elsevier.com/a/1blrA3Q8oQ6n8E)**<br/>
+  <summary>**[Who feels the impacts of climate change?](https://www.sciencedirect.com/science/article/pii/S0959378020307470?casa_token=OSyA2O587ksAAAAA:cBTLntL3ou-0v--XWR2ci1cYUcmx20RSaC20Gjmw0awWQQ7b-txtVrL4zhoaCdTuUqr1vfCs)**<br/>
 Talbot M. Andrews & Oleg Smirnov<br/>
 *Global Environmental Change, 2020*</summary>
 </summary>
