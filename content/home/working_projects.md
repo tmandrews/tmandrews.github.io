@@ -48,6 +48,16 @@ subtitle = "Pre-Prints Available for All Projects on Request"
 +++
 
 <details>
+  <summary>**Making useful political decisions for others: Experiments on Strategic Social Preferences**<br/>
+Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
+*Conditionally Accepted, Political Behavior*<br/>
+</summary>
+
+Politics often involves making decisions on behalf of others. Will citizens make these decisions for others in ways that are useful? Classic models that assume citizens are narrowly self-interested suggest they will not. More recent models incorporating social preferences—the willingness of people to pay personal costs to benefit others—suggests people will help others, including through political activity. We extend these models using two experimental games which ask not just whether people will pay a cost on behalf of others, but whether they will do so in a way that is strategically useful. Our game simulates making decisions to prevent others from experiencing disaster. We find that players are not only generous but are strategically so: Players tended to choose in the way that furthers positive outcomes for others. Our experiments suggest social preferences can lead to useful political decisions on behalf of others.
+
+</details>
+
+<details>
   <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
 Talbot M. Andrews & John Barry Ryan<br/>
 *Revise & Resubmit*
@@ -58,17 +68,6 @@ How do we best mobilize people to pay the costs of disaster prevention? Though i
 </details>
 
 <details>
-  <summary>**Making useful political decisions for others: Experiments on Strategic Social Preferences**<br/>
-Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
-*Revise & Resubmit*<br/>
-</summary>
-
-Politics often involves making decisions on behalf of others. Will citizens make these decisions for others in ways that are useful? Classic models that assume citizens are narrowly self-interested suggest they will not. More recent models incorporating social preferences—the willingness of people to pay personal costs to benefit others—suggests people will help others, including through political activity. We extend these models using two experimental games which ask not just whether people will pay a cost on behalf of others, but whether they will do so in a way that is strategically useful. Our game simulates making decisions to prevent others from experiencing disaster. We find that players are not only generous but are strategically so: Players tended to choose in the way that furthers positive outcomes for others. Our experiments suggest social preferences can lead to useful political decisions on behalf of others.
-
-</details>
-
-
-<details>
   <summary>**Climate Change Literacy in Africa**<br/>
 Nicholas Philip Simpson, Talbot M. Andrews, Matthias Kronke, Christopher Lennard, Romaric C. Odoulami, Birgitt Ouweneel, Anna Steynor, & Christopher H. Trisos<br/>
 *Revise & Resubmit*
@@ -77,7 +76,6 @@ Nicholas Philip Simpson, Talbot M. Andrews, Matthias Kronke, Christopher Lennard
 Climate change literacy is defined as being both aware of climate change and its anthropogenic causes, and thus underpins informed mitigation and adaptation responses. However, climate change literacy rates and their predictors remain poorly understood across the Global South. Here, we analysed Africa’s largest, representative public opinion survey to quantify change literacy rates. Climate change literacy ranges from 23–66% of the population across 33 countries, with larger variation at subnational scales (e.g., 5–71% among states in Nigeria). Strong positive predictors of climate change literacy are education and mobility, but poverty decreases climate change literacy and women are less likely to be climate change literate than men. Perceived drought experiences and historical trends in precipitation are also important predictors. These results highlight where services can target specific regions and demographics to increase climate change literacy and help ensure adaptation responses are informed by better understandings of future climate change. 
 
 </details>
-
 
 <details>
   <summary>**Who do you trust? Inefficiency Incentives in Climate Change Mitigation**<br/>
@@ -108,7 +106,6 @@ Talbot M. Andrews & Scott Bokemper <br/>
 Politicians signal their intended policy outcomes to voters, such through campaign promises. However, theories of retrospective voting suggest these intentions don’t impact vote choice – so why do politicians spend resources on signaling their intentions? Here, we propose an outcome-intention theory of voting in which voters weigh both policy outcomes and intentions in their choice between candidates. We conducted four incentivized experiments using a novel election game. In these experiments, participants took the role of voters who experienced a better or worse policy enacted by an incumbent and then decided whether to reelect the incumbent or vote in a challenger. We manipulated whether the voters knew whether the incumbent intended to enact the outcome that voters experienced. Across all four experiments, we found intentions matter. Voters rewarded incumbents who purposefully enacted good outcomes and forgave incumbents for bad outcomes that were not intended.
 
 </details>
-
 
 
 <details>
