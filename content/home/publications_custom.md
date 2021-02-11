@@ -49,6 +49,17 @@ subtitle = ""
 
 ## Peer-Reviewed Publications
 
+
+<details>
+  <summary>**Making useful political decisions for others: Experiments on Strategic Social Preferences**<br/>
+Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
+*Conditionally Accepted, Political Behavior*<br/>
+</summary>
+
+Politics often involves making decisions on behalf of others. Will citizens make these decisions for others in ways that are useful? Classic models that assume citizens are narrowly self-interested suggest they will not. More recent models incorporating social preferences—the willingness of people to pay personal costs to benefit others—suggests people will help others, including through political activity. We extend these models using two experimental games which ask not just whether people will pay a cost on behalf of others, but whether they will do so in a way that is strategically useful. Our game simulates making decisions to prevent others from experiencing disaster. We find that players are not only generous but are strategically so: Players tended to choose in the way that furthers positive outcomes for others. Our experiments suggest social preferences can lead to useful political decisions on behalf of others.
+
+</details>
+
 <details>
   <summary>**[Who feels the impacts of climate change?](https://www.sciencedirect.com/science/article/pii/S0959378020307470?casa_token=OSyA2O587ksAAAAA:cBTLntL3ou-0v--XWR2ci1cYUcmx20RSaC20Gjmw0awWQQ7b-txtVrL4zhoaCdTuUqr1vfCs)**<br/>
 Talbot M. Andrews & Oleg Smirnov<br/>
