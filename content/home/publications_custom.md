@@ -51,12 +51,12 @@ subtitle = ""
 
 
 <details>
-  <summary>**Making useful political decisions for others: Experiments on Strategic Social Preferences**<br/>
+  <summary>**[Is a Rational Politics of Disaster Possible? Making Useful Decisions for Others in an Experimental Disaster Game](http://link.springer.com/article/10.1007/s11109-021-09700-2)**<br/>
 Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
-*Conditionally Accepted, Political Behavior*<br/>
+*Political Behavior, 2021*<br/>
 </summary>
 
-Politics often involves making decisions on behalf of others. Will citizens make these decisions for others in ways that are useful? Classic models that assume citizens are narrowly self-interested suggest they will not. More recent models incorporating social preferences—the willingness of people to pay personal costs to benefit others—suggests people will help others, including through political activity. We extend these models using two experimental games which ask not just whether people will pay a cost on behalf of others, but whether they will do so in a way that is strategically useful. Our game simulates making decisions to prevent others from experiencing disaster. We find that players are not only generous but are strategically so: Players tended to choose in the way that furthers positive outcomes for others. Our experiments suggest social preferences can lead to useful political decisions on behalf of others.
+Disaster responses are political. But can citizens make useful disaster decisions? Potential obstacles are that such decisions are complex, involve public goods, and often affect other people. Theories of political decision-making disagree on whether these problems can be overcome. We used experimental economic games that simulate disaster to test whether people are willing and able to prevent disasters for others. Groups of players face a complex task in which options that might help vary in their riskiness. Importantly, although all options are reasonable, which option is most useful depends on the experimental condition. We find that players will pay to help, can identify which option is most useful across experimental conditions, and will pay to learn how best to help. Thus, players were able to make useful and costly decisions to prevent others from experiencing disaster. This suggests that, in at least some situations, citizens may be able to make good disaster decisions.
 
 </details>
 
