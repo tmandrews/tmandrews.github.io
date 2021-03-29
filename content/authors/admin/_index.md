@@ -39,6 +39,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a postdoctoral research associate at Princeton University in the [Center for the Study of Democratic Politics](https://csdp.princeton.edu/). I earned my PhD in the department of Political Science at Stony Brook University in August of 2020.
+I am a postdoctoral research associate at Princeton University in the [Center for the Study of Democratic Politics](https://csdp.princeton.edu/). This fall I will join the department of political science at the University of Connecticut as an assistant professor. I earned my PhD in the department of Political Science at Stony Brook University in August of 2020.
 
-I am primarily interested in individual and institutional responses to climate change. I study both public opinion and the behavioral political economy of risk and mitigation preferences using experimental evidence and formal modeling. I am also more broadly interested in US public opinion, especially as it is shaped by major events such as natural disasters.
+I am primarily interested in individual and institutional responses to climate change. I study both public opinion and the behavioral political economy of risk and mitigation preferences using experimental evidence and formal modeling. I am also more broadly interested in US public opinion, especially as it is shaped by major events such as disasters.
