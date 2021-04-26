@@ -48,16 +48,6 @@ subtitle = "Pre-Prints Available for All Projects on Request"
 +++
 
 <details>
-  <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
-Talbot M. Andrews & John Barry Ryan<br/>
-*Revise & Resubmit*
-</summary>
-
-How do we best mobilize people to pay the costs of disaster prevention? Though intuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
-
-</details>
-
-<details>
   <summary>**Climate Change Literacy in Africa**<br/>
 Nicholas Philip Simpson, Talbot M. Andrews, Matthias Kronke, Christopher Lennard, Romaric C. Odoulami, Birgitt Ouweneel, Anna Steynor, & Christopher H. Trisos<br/>
 *Revise & Resubmit*
