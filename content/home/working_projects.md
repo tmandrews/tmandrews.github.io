@@ -67,6 +67,7 @@ Climate change is an extremely polarized issue in the United States, with leader
 
 </details>
 
+
 <details>
   <summary>**Too Many Ways to Help: How to Promote Climate Change Mitigation Behaviors**<br/>
 Talbot M. Andrews, Reuben Kline, Yanna Krupnikov, & John Barry Ryan <br/>
@@ -87,6 +88,15 @@ Politicians signal their intended policy outcomes to voters, such through campai
 
 </details>
 
+<details>
+  <summary>**Anticipating Moral Hazard Undermines Climate Mitigation in an Experimental Geoengineering Game**<br/>
+Talbot M. Andrews, Andrew W. Delton & Reuben Kline <br/>
+*Under Review*<br/>
+</summary>
+
+Geoengineering is often touted as a solution to climate change but will only be successful in conjunction with other mitigation strategies. This creates a potential for a “moral hazard”: If people think geoengineering alone will mitigate climate change, there is little incentive for them to support more piecemeal but necessary mitigation efforts. We test this in a series of economic games where players in groups must prevent a simulated climate disaster. One player, the “policymaker,” decides whether to implement geoengineering. The rest are “citizens” who decide how much to contribute to more piecemeal mitigation efforts. We find that citizens contribute to mitigation even when the policymaker uses geoengineering. Despite this, policymakers expect that citizens will engage in moral hazard. This expectation leads policymakers to not use geoengineering even though everyone would be better off if they used it. Moral hazard anticipation undermines climate change mitigation, rather than the moral hazard itself.
+
+</details>
 
 <details>
   <summary>**Contextual Constraints on Discussion Partner Choice and Correct Voting**<br/>
