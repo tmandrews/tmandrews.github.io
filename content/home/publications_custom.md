@@ -50,9 +50,9 @@ subtitle = ""
 ## Peer-Reviewed Publications
 
 <details>
-  <summary>**Preferences for Prevention: People Assume Expensive Problems Have Expensive Solutions**<br/>
+  <summary>**[Preferences for Prevention: People Assume Expensive Problems Have Expensive Solutions](bit.ly/2T2bhoL)**<br/>
 Talbot M. Andrews & John Barry Ryan<br/>
-*Accepted, Risk Analysis*
+*Risk Analysis, 2021*
 </summary>
 
 People support inefficient spending on preventing disasters, and these preferences are translated into inefficient policies as elected officials try to appeal to their constituents. Here, we find preferences for prevention spending are biased by the “cost conflation” mechanism, where people assume expensive problems have expensive solutions. In this paper, we present a formal model of collective action, and illustrate how cost conflation causes people to deviate from the equilibria. We test for these hypothesized deviations using an incentivized experiment. The experimental subjects engage in cost conflation – they believe the costs of disaster prevention are positively related to the costs of disaster damages, even when explicitly told otherwise. As a result, they fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Furthermore, we provide evidence that overemphasizing disaster damages undermines successful disaster prevention because people view these disasters as too big to solve.
