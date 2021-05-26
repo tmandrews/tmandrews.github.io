@@ -70,6 +70,16 @@ Disaster responses are political. But can citizens make useful disaster decision
 </details>
 
 <details>
+  <summary>**[From Moral Hazard to Risk-Response Feedback](https://www.sciencedirect.com/science/article/pii/S221209632100053X)**<br/>
+Joseph Jebari, Olufemi Taiwo, Valentina Aquila, Brian Beckage, Mariia Belaia, Maggie Clifford, Jay Fuhrman, David P. Keller, Katharine J. Mach, David R. Morrow, Kaitlin T. Raimi, Daniele Visioni, Simon Nicholson, & Christopher H. Trisos<br/>
+*Climate Risk Management, 2021*
+</summary>
+
+The Intergovernmental Panel on Climate Change assessments (IPCC) Special Report on 1.5°C of global warming is clear. Nearly all pathways that hold global warming well below 2°C involve carbon removal (IPCC, 2015). In addition, solar geoengineering is being considered as a potential tool to offset warming, especially to limit temperature until negative emissions technologies are sufficiently matured (MacMartin et al., 2018). Despite this, there’s been a reluctance to embrace carbon removal and solar geoengineering, partly due to the perception that these technologies represent what is widely (though, we argue here, problematically) termed a “moral hazard”: that geoengineering will prevent people from developing the will to change their personal consumption and push for changes in infrastructure (Robock et al., 2010), erode political will for emissions cuts (Keith, 2007), or otherwise stimulate increased carbon emissions at the social-system level of analysis (Bunzl, 2008). We argue that debates over “moral hazard” in response to carbon removal and geoengineering are unhelpful and misleading. We also propose an alternative framework for dealing with the tradeoffs that motivate the appeal to “moral hazard,” which we call “risk-response feedback.”
+
+</details>
+
+<details>
   <summary>**[Who feels the impacts of climate change?](https://www.sciencedirect.com/science/article/pii/S0959378020307470?casa_token=OSyA2O587ksAAAAA:cBTLntL3ou-0v--XWR2ci1cYUcmx20RSaC20Gjmw0awWQQ7b-txtVrL4zhoaCdTuUqr1vfCs)**<br/>
 Talbot M. Andrews & Oleg Smirnov<br/>
 *Global Environmental Change, 2020*</summary>
