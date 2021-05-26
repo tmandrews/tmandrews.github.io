@@ -71,7 +71,7 @@ Disaster responses are political. But can citizens make useful disaster decision
 
 <details>
   <summary>**[From Moral Hazard to Risk-Response Feedback](https://www.sciencedirect.com/science/article/pii/S221209632100053X)**<br/>
-Joseph Jebari, Olufemi Taiwo, Valentina Aquila, Brian Beckage, Mariia Belaia, Maggie Clifford, Jay Fuhrman, David P. Keller, Katharine J. Mach, David R. Morrow, Kaitlin T. Raimi, Daniele Visioni, Simon Nicholson, & Christopher H. Trisos<br/>
+Joseph Jebari, Olufemi Taiwo, Talbot M. Andrews, Valentina Aquila, Brian Beckage, Mariia Belaia, Maggie Clifford, Jay Fuhrman, David P. Keller, Katharine J. Mach, David R. Morrow, Kaitlin T. Raimi, Daniele Visioni, Simon Nicholson, & Christopher H. Trisos<br/>
 *Climate Risk Management, 2021*
 </summary>
 
