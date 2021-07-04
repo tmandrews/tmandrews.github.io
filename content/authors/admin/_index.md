@@ -19,7 +19,6 @@ interests:
 name: Talbot M. Andrews
 organizations:
 - name: University of Connecticut
-talbot.andrews@uconn.edu
   url: ""
 role: Assistant Professor
 social:
