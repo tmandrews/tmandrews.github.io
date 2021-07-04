@@ -18,9 +18,10 @@ interests:
 - Climate Change & Natural Hazards
 name: Talbot M. Andrews
 organizations:
-- name: Princeton University
-  url: "talbot.andrews@uconn.edu"
-role: Postdoctoral Research Associate
+- name: University of Connecticut
+talbot.andrews@uconn.edu
+  url: ""
+role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
