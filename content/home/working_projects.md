@@ -79,9 +79,18 @@ What are the most effective messages to mobilize people to engage in climate cha
 </details>
 
 <details>
+  <summary>**Anticipating Moral Hazard Undermines Climate Mitigation in an Experimental Geoengineering Game**<br/>
+Talbot M. Andrews, Andrew W. Delton & Reuben Kline <br/>
+*Under Review*<br/>
+</summary>
+
+Geoengineering is often touted as a solution to climate change but will only be successful in conjunction with other mitigation strategies. This creates a potential for a “moral hazard”: If people think geoengineering alone will mitigate climate change, there is little incentive for them to support more piecemeal but necessary mitigation efforts. We test this in a series of economic games where players in groups must prevent a simulated climate disaster. One player, the “policymaker,” decides whether to implement geoengineering. The rest are “citizens” who decide how much to contribute to more piecemeal mitigation efforts. We find that citizens contribute to mitigation even when the policymaker uses geoengineering. Despite this, policymakers expect that citizens will engage in moral hazard. This expectation leads policymakers to not use geoengineering even though everyone would be better off if they used it. Moral hazard anticipation undermines climate change mitigation, rather than the moral hazard itself.
+
+</details>
+
+<details>
   <summary>**The road to reelection is paved with good intentions: Experiments on the role of outcomes and intentions in voting behavior**<br/>
 Talbot M. Andrews & Scott Bokemper <br/>
-*Under Review*<br/>
 </summary>
 
 Politicians signal their intended policy outcomes to voters, such through campaign promises. However, theories of retrospective voting suggest these intentions don’t impact vote choice – so why do politicians spend resources on signaling their intentions? Here, we propose an outcome-intention theory of voting in which voters weigh both policy outcomes and intentions in their choice between candidates. We conducted four incentivized experiments using a novel election game. In these experiments, participants took the role of voters who experienced a better or worse policy enacted by an incumbent and then decided whether to reelect the incumbent or vote in a challenger. We manipulated whether the voters knew whether the incumbent intended to enact the outcome that voters experienced. Across all four experiments, we found intentions matter. Voters rewarded incumbents who purposefully enacted good outcomes and forgave incumbents for bad outcomes that were not intended.
@@ -89,12 +98,11 @@ Politicians signal their intended policy outcomes to voters, such through campai
 </details>
 
 <details>
-  <summary>**Anticipating Moral Hazard Undermines Climate Mitigation in an Experimental Geoengineering Game**<br/>
-Talbot M. Andrews, Andrew W. Delton & Reuben Kline <br/>
-*Under Review*<br/>
+  <summary>**Close to Home: How Local Media Shapes Climate Change Attitudes**<br/>
+Talbot M. Andrews, Cana Kim, & Jeong Hyun Kim <br/>
 </summary>
 
-Geoengineering is often touted as a solution to climate change but will only be successful in conjunction with other mitigation strategies. This creates a potential for a “moral hazard”: If people think geoengineering alone will mitigate climate change, there is little incentive for them to support more piecemeal but necessary mitigation efforts. We test this in a series of economic games where players in groups must prevent a simulated climate disaster. One player, the “policymaker,” decides whether to implement geoengineering. The rest are “citizens” who decide how much to contribute to more piecemeal mitigation efforts. We find that citizens contribute to mitigation even when the policymaker uses geoengineering. Despite this, policymakers expect that citizens will engage in moral hazard. This expectation leads policymakers to not use geoengineering even though everyone would be better off if they used it. Moral hazard anticipation undermines climate change mitigation, rather than the moral hazard itself.
+Highlighting the local impacts of climate change has the potential to increase the public's awareness of and engagement with climate change. However, information about local impacts is only effective when delivered by trusted sources such as co-partisan political leaders. Is information about climate change conveyed by local media sources similarly beneficial? We argue that local media are well positioned to communicate the local implications of climate change, thereby enhancing the public's risk perceptions of climate change and willingness to take climate action. We further hypothesize that climate coverage by local media, the media type that is more trusted across party lines, will have more profound effects on Republicans. Using the case of Louisiana, we first demonstrate that local and national newspapers cover climate change in substantially different ways, with local media more consistently focused on local impacts. Our survey experiment of Louisiana residents reveals that Republicans viewed the coverage of a hurricane in the region more positively when it came from a local newspaper rather than a national newspaper. Furthermore, local newspapers' climate coverage increased Republicans' willingness to take action to mitigate climate change. These results provide insights into the effective communication of climate change to the public and the role of local media in mitigating partisan polarization.
 
 </details>
 
