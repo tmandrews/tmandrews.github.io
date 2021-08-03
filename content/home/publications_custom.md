@@ -50,6 +50,16 @@ subtitle = ""
 ## Peer-Reviewed Publications
 
 <details>
+  <summary>**Climate Change Literacy in Africa**<br/>
+Nicholas Philip Simpson, Talbot M. Andrews, Matthias Kronke, Christopher Lennard, Romaric C. Odoulami, Birgitt Ouweneel, Anna Steynor, & Christopher H. Trisos<br/>
+*Nature Climate Change, Accepted*
+</summary>
+
+Climate change literacy is defined as being both aware of climate change and its anthropogenic causes, and thus underpins informed mitigation and adaptation responses. However, climate change literacy rates and their predictors remain poorly understood across the Global South. Here, we analysed Africa’s largest, representative public opinion survey to quantify change literacy rates. Climate change literacy ranges from 23–66% of the population across 33 countries, with larger variation at subnational scales (e.g., 5–71% among states in Nigeria). Strong positive predictors of climate change literacy are education and mobility, but poverty decreases climate change literacy and women are less likely to be climate change literate than men. Perceived drought experiences and historical trends in precipitation are also important predictors. These results highlight where services can target specific regions and demographics to increase climate change literacy and help ensure adaptation responses are informed by better understandings of future climate change. 
+
+</details>
+
+<details>
   <summary>**[Preferences for Prevention: People Assume Expensive Problems Have Expensive Solutions](bit.ly/2T2bhoL)**<br/>
 Talbot M. Andrews & John Barry Ryan<br/>
 *Risk Analysis, 2021*
