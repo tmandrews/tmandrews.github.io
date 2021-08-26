@@ -2,7 +2,7 @@
 authors:
 - admin
 bio: My research interests include individual and institutional responses to climate change.
-Academic Positions:
+Education:
   courses:
   - course: Postdoctoral Research Associate
     institution: Princeton University
