@@ -33,7 +33,7 @@ social:
   link: https://twitter.com/talbotmandrews
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=quTDSdQAAAAJ&hl=en&authuser=1
+  link: https://scholar.google.com/citations?user=BnaK1UcAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/tmandrews
