@@ -157,6 +157,9 @@ De Dreu and Gross’s distinction between attack and defense is complicated in r
 
 </details>
 
+**[Climate Change Literacy in Africa](https://sustainabilitycommunity.springernature.com/posts/climate-change-literacy-in-africa?utm_source=user_mailer&utm_medium=email&utm_campaign=notify_contributor_about_creating_a_post)**<br/>
+Nicholas P. Simpson, Christopher Trisos, Matthias Krönke, & Talbot M. Andrews<br/>
+Blog Post on *Nature Sustainability Community,* 2021
 
 **[Changing Climate in the Lab](https://sites.google.com/site/apsapdf/changing-climate-in-the-lab)**<br/>
 Talbot M. Andrews<br/>
