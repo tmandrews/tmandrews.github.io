@@ -138,6 +138,9 @@ Women's body attractiveness is influenced by specific anthropometric cues, inclu
 
 ## Other Published Work
 
+**[Climate Change Literacy in Africa](https://sustainabilitycommunity.springernature.com/posts/climate-change-literacy-in-africa?utm_source=user_mailer&utm_medium=email&utm_campaign=notify_contributor_about_creating_a_post)**<br/>
+Nicholas P. Simpson, Christopher Trisos, Matthias Krönke, & Talbot M. Andrews<br/>
+Blog Post on *Nature Sustainability Community,* 2021
 
 <details>
   <summary>**[Two-wave panel survey dataset on who feels affected by Hurricane Florence](https://authors.elsevier.com/sd/article/S2352-3409(20)31254-3)**<br/>
@@ -156,10 +159,6 @@ Commentary in *Behavioral and Brain Sciences,* 2019 </summary>
 De Dreu and Gross’s distinction between attack and defense is complicated in real-world conflicts because competing leaders construe their position as one of defense, and power imbalances place status quo challengers in a defensive position. Their account of defense as vigilant avoidance is incomplete because it avoids a reference to anger which transforms anxious avoidance into collective and unified action. 
 
 </details>
-
-**[Climate Change Literacy in Africa](https://sustainabilitycommunity.springernature.com/posts/climate-change-literacy-in-africa?utm_source=user_mailer&utm_medium=email&utm_campaign=notify_contributor_about_creating_a_post)**<br/>
-Nicholas P. Simpson, Christopher Trisos, Matthias Krönke, & Talbot M. Andrews<br/>
-Blog Post on *Nature Sustainability Community,* 2021
 
 **[Changing Climate in the Lab](https://sites.google.com/site/apsapdf/changing-climate-in-the-lab)**<br/>
 Talbot M. Andrews<br/>
