@@ -138,6 +138,11 @@ Women's body attractiveness is influenced by specific anthropometric cues, inclu
 
 ## Other Published Work
 
+**[Africa’s first 
+continent wide survey of climate change literacy finds education is key](https://user-images.githubusercontent.com/33166982/139082752-3bc3115b-8ba9-4ee1-83e0-c210fffd0259.png)**<br/>
+Nicholas P. Simpson, Christopher Trisos, Matthias Krönke, & Talbot M. Andrews<br/>
+*The Conversation,* 2021
+
 **[Climate Change Literacy in Africa](https://sustainabilitycommunity.springernature.com/posts/climate-change-literacy-in-africa?utm_source=user_mailer&utm_medium=email&utm_campaign=notify_contributor_about_creating_a_post)**<br/>
 Nicholas P. Simpson, Christopher Trisos, Matthias Krönke, & Talbot M. Andrews<br/>
 Blog Post on *Nature Sustainability Community,* 2021
